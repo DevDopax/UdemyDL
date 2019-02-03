@@ -12,4 +12,7 @@ python main.py
 ```
 
 Then log in and select the course you want to download via the number associated with it.
-Now it will start directly to download
+Now it will start directly to download.
+
+## Why use it?
+It's convenient, it directly organizes the files in the folders. One could also write an interface.
